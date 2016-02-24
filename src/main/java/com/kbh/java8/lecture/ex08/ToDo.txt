@@ -1,0 +1,11 @@
+앞으로 공부해야할것
+
+Closure
+
+High-order Function
+
+Monad
+
+Method Reference
+
+Default Method -- Functional Feature과 직접적 연관은 없음
